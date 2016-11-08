@@ -7,6 +7,10 @@
     width: 750px;
 }
 
+.main div{
+    margin: 2px;
+}
+
 .steamingHeap{
     width: 100%;
     height: 140px;
@@ -21,9 +25,22 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+    margin-left: 5px;
 }
 
 .lookIntoTheDepths{
     width: 140px;
+}
+
+.levelOfHell{
+    font-weight: bold; 
+}
+
+.bannerOfHell{
+    font-family: Helvetica;
+}
+
+.sirenOfHell{
+    font-size: .8em;
 }
 
