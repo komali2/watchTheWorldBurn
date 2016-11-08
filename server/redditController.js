@@ -1,5 +1,4 @@
 var request = require('request');
-var redditArray = require('./config.js').redditArray;
 
 module.exports = {
   endWorld: function(req, res){

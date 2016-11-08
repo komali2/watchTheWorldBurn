@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/komali2/watchTheWorldBurn#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "request": "^2.78.0"
   }
 }
